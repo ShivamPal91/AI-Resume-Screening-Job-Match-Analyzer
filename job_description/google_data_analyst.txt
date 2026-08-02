@@ -1,0 +1,12 @@
+Python
+SQL
+Power BI
+Excel
+Pandas
+NumPy
+Git
+GitHub
+Statistics
+Communication
+Problem Solving
+Critical Thinking
