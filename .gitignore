@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+venv/
+
+AI_Resume_ATS_Report.pdf
+ATS_Report.pdf
+
+.streamlit/
+
+.idea/
+.vscode/
